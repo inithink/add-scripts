@@ -1,0 +1,12 @@
+{
+  "name": "add-scripts",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "add-scripts": "bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
